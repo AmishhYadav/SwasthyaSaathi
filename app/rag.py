@@ -46,47 +46,42 @@ Answer:"""
 )
 
 
-def get_faq_agent():
+def get_llm():
     try:
         api_key = os.getenv("GEMINI_API_KEY") or os.getenv("GOOGLE_API_KEY")
-
         if not api_key:
             print("Error: API key not found. Set GEMINI_API_KEY or GOOGLE_API_KEY in .env")
+            return None
+
+        os.environ["GOOGLE_API_KEY"] = api_key
+        model_names = ["gemini-2.5-flash"]
+        
+        for model_name in model_names:
+            try:
+                llm = ChatGoogleGenerativeAI(
+                    model=model_name,
+                    temperature=0.3,
+                    google_api_key=api_key
+                )
+                return llm
+            except Exception as e:
+                print(f"❌ Failed to initialize {model_name}: {str(e)[:150]}")
+                continue
+        return None
+    except Exception as e:
+        print(f"Error initializing LLM: {e}")
+        return None
+
+def get_faq_agent():
+    try:
+        llm = get_llm()
+        if llm is None:
             return None
 
         # Local embeddings for retrieval
         embeddings = HuggingFaceEmbeddings(model_name="all-MiniLM-L6-v2")
         vectordb = FAISS.load_local(DB_PATH, embeddings, allow_dangerous_deserialization=True)
         retriever = vectordb.as_retriever(search_type="similarity", search_kwargs={"k": 4})
-
-        os.environ["GOOGLE_API_KEY"] = api_key
-
-        model_names = ["gemini-2.5-flash"]
-
-        llm = None
-        last_error = None
-
-        for model_name in model_names:
-            try:
-                print(f"Attempting to initialize model: {model_name}")
-                llm = ChatGoogleGenerativeAI(
-                    model=model_name,
-                    temperature=0.3,
-                    google_api_key=api_key
-                )
-                print(f"✅ Successfully initialized with model: {model_name}")
-                break
-            except Exception as e:
-                error_str = str(e)
-                last_error = e
-                if "404" in error_str or "not found" in error_str.lower():
-                    print(f"❌ Model {model_name} not available")
-                else:
-                    print(f"❌ Failed to initialize {model_name}: {error_str[:150]}")
-                continue
-
-        if llm is None:
-            raise Exception(f"Failed to initialize any model. Last error: {last_error}")
 
         # Build the hybrid RAG chain with our custom prompt
         qa = RetrievalQA.from_chain_type(
