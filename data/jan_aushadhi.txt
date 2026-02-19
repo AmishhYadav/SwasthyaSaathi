@@ -1,0 +1,223 @@
+# Jan Aushadhi Medicine Database
+# Pradhan Mantri Bhartiya Jan Aushadhi Pariyojana (PMBJP)
+# These are affordable generic medicines available at Jan Aushadhi Kendras across India.
+
+---
+
+## Paracetamol (Acetaminophen)
+Category: Analgesic / Antipyretic
+Generic Name: Paracetamol
+Strength: 500 mg
+Dosage Form: Tablet
+Jan Aushadhi MRP: ₹1.00 per tablet (approx)
+Market Price: ₹5-15 per tablet
+Savings: Up to 80%
+Uses: Fever, mild to moderate pain (headache, body ache, toothache).
+Side Effects: Rare at normal doses. Liver damage at high doses.
+Precautions: Do not exceed 4g/day. Avoid with alcohol. Consult doctor if liver disease.
+
+---
+
+## Cetirizine
+Category: Antihistamine / Anti-allergic
+Generic Name: Cetirizine Hydrochloride
+Strength: 10 mg
+Dosage Form: Tablet
+Jan Aushadhi MRP: ₹0.50 per tablet (approx)
+Market Price: ₹3-8 per tablet
+Savings: Up to 85%
+Uses: Allergic rhinitis, urticaria (hives), itching, hay fever.
+Side Effects: Drowsiness, dry mouth, headache.
+Precautions: May cause drowsiness — avoid driving. Use with caution in kidney disease.
+
+---
+
+## Metformin
+Category: Antidiabetic
+Generic Name: Metformin Hydrochloride
+Strength: 500 mg
+Dosage Form: Tablet
+Jan Aushadhi MRP: ₹1.50 per tablet (approx)
+Market Price: ₹5-12 per tablet
+Savings: Up to 75%
+Uses: Type 2 Diabetes Mellitus (first-line drug).
+Side Effects: Nausea, diarrhea, metallic taste, vitamin B12 deficiency with long-term use.
+Precautions: Take with food. Avoid in kidney failure or before contrast dye procedures.
+
+---
+
+## Amlodipine
+Category: Antihypertensive / Calcium Channel Blocker
+Generic Name: Amlodipine Besylate
+Strength: 5 mg
+Dosage Form: Tablet
+Jan Aushadhi MRP: ₹0.50 per tablet (approx)
+Market Price: ₹3-10 per tablet
+Savings: Up to 85%
+Uses: High blood pressure (hypertension), angina (chest pain).
+Side Effects: Ankle swelling, dizziness, flushing, headache.
+Precautions: Do not stop suddenly. Monitor blood pressure regularly.
+
+---
+
+## Amoxicillin
+Category: Antibiotic (Penicillin group)
+Generic Name: Amoxicillin Trihydrate
+Strength: 500 mg
+Dosage Form: Capsule
+Jan Aushadhi MRP: ₹2.00 per capsule (approx)
+Market Price: ₹8-15 per capsule
+Savings: Up to 75%
+Uses: Bacterial infections — ear, nose, throat, urinary tract, skin, respiratory infections.
+Side Effects: Diarrhea, nausea, skin rash.
+Precautions: Complete the full course. Check for penicillin allergy. Not effective against viral infections.
+
+---
+
+## Azithromycin
+Category: Antibiotic (Macrolide)
+Generic Name: Azithromycin
+Strength: 500 mg
+Dosage Form: Tablet
+Jan Aushadhi MRP: ₹5.00 per tablet (approx)
+Market Price: ₹30-70 per tablet
+Savings: Up to 85%
+Uses: Respiratory infections, ear infections, skin infections, typhoid, sexually transmitted infections.
+Side Effects: Nausea, diarrhea, abdominal pain.
+Precautions: Take on empty stomach or 2 hours after food. Complete the full course.
+
+---
+
+## Omeprazole
+Category: Proton Pump Inhibitor (PPI) / Antacid
+Generic Name: Omeprazole
+Strength: 20 mg
+Dosage Form: Capsule
+Jan Aushadhi MRP: ₹1.00 per capsule (approx)
+Market Price: ₹5-15 per capsule
+Savings: Up to 80%
+Uses: Acid reflux (GERD), peptic ulcers, gastritis, Zollinger-Ellison syndrome.
+Side Effects: Headache, diarrhea, nausea. Long-term: vitamin B12 deficiency, bone fractures.
+Precautions: Take 30 minutes before food. Not for long-term use without doctor advice.
+
+---
+
+## Atorvastatin
+Category: Statin / Lipid-Lowering Agent
+Generic Name: Atorvastatin Calcium
+Strength: 10 mg
+Dosage Form: Tablet
+Jan Aushadhi MRP: ₹1.50 per tablet (approx)
+Market Price: ₹8-20 per tablet
+Savings: Up to 80%
+Uses: High cholesterol, prevention of heart attack and stroke.
+Side Effects: Muscle pain, liver enzyme elevation, digestive problems.
+Precautions: Regular liver function tests. Report unexplained muscle pain. Avoid grapefruit juice.
+
+---
+
+## Ibuprofen
+Category: NSAID (Non-Steroidal Anti-Inflammatory Drug)
+Generic Name: Ibuprofen
+Strength: 400 mg
+Dosage Form: Tablet
+Jan Aushadhi MRP: ₹1.00 per tablet (approx)
+Market Price: ₹4-10 per tablet
+Savings: Up to 75%
+Uses: Pain (headache, dental pain, menstrual cramps), fever, inflammation (arthritis).
+Side Effects: Stomach irritation, nausea, ulcers with prolonged use.
+Precautions: Take with food. Avoid in dengue (bleeding risk). Not for prolonged use without doctor advice.
+
+---
+
+## Oral Rehydration Salts (ORS)
+Category: Rehydration Therapy
+Generic Name: ORS (WHO formula)
+Strength: Standard sachet (dissolve in 1 litre water)
+Dosage Form: Powder for solution
+Jan Aushadhi MRP: ₹2.00 per sachet (approx)
+Market Price: ₹10-25 per sachet
+Savings: Up to 80%
+Uses: Dehydration due to diarrhea, vomiting, cholera, heat stroke.
+Side Effects: None at correct dilution.
+Precautions: Dissolve in correct amount of clean water. Discard after 24 hours.
+
+---
+
+## Iron + Folic Acid
+Category: Hematinics / Nutritional Supplement
+Generic Name: Ferrous Sulphate + Folic Acid
+Strength: 100 mg Iron + 0.5 mg Folic Acid
+Dosage Form: Tablet
+Jan Aushadhi MRP: ₹0.30 per tablet (approx)
+Market Price: ₹2-5 per tablet
+Savings: Up to 85%
+Uses: Iron deficiency anemia, pregnancy supplementation (critical for maternal health).
+Side Effects: Constipation, black stools, nausea.
+Precautions: Take on empty stomach with vitamin C for better absorption. Do not take with tea/coffee/milk.
+
+---
+
+## Albendazole
+Category: Anthelmintic (Deworming)
+Generic Name: Albendazole
+Strength: 400 mg
+Dosage Form: Chewable Tablet
+Jan Aushadhi MRP: ₹1.50 per tablet (approx)
+Market Price: ₹8-20 per tablet
+Savings: Up to 80%
+Uses: Intestinal worm infections (roundworm, hookworm, tapeworm, pinworm).
+Side Effects: Abdominal pain, nausea, headache (mild and transient).
+Precautions: Single dose for most infections. Avoid in pregnancy (first trimester).
+
+---
+
+## Chloroquine
+Category: Antimalarial
+Generic Name: Chloroquine Phosphate
+Strength: 250 mg
+Dosage Form: Tablet
+Jan Aushadhi MRP: ₹1.00 per tablet (approx)
+Market Price: ₹5-12 per tablet
+Savings: Up to 80%
+Uses: Treatment and prevention of malaria (P. vivax). Not effective against P. falciparum in resistant areas.
+Side Effects: Nausea, headache, blurred vision, retinal toxicity with long-term use.
+Precautions: Eye exam recommended with prolonged use. Follow complete dosing schedule.
+
+---
+
+## Salbutamol (Albuterol)
+Category: Bronchodilator
+Generic Name: Salbutamol Sulphate
+Strength: 100 mcg/puff
+Dosage Form: Metered Dose Inhaler (MDI)
+Jan Aushadhi MRP: ₹35 per inhaler (approx)
+Market Price: ₹120-250 per inhaler
+Savings: Up to 70%
+Uses: Asthma, COPD, wheezing, breathing difficulty.
+Side Effects: Tremor, rapid heartbeat, headache.
+Precautions: Shake well before use. Rinse mouth after use. Do not exceed prescribed doses.
+
+---
+
+## Calcium + Vitamin D3
+Category: Nutritional Supplement / Bone Health
+Generic Name: Calcium Carbonate + Cholecalciferol
+Strength: 500 mg Calcium + 250 IU Vitamin D3
+Dosage Form: Tablet
+Jan Aushadhi MRP: ₹1.50 per tablet (approx)
+Market Price: ₹6-15 per tablet
+Savings: Up to 75%
+Uses: Calcium deficiency, osteoporosis prevention, bone health in elderly and women.
+Side Effects: Constipation, bloating, gas.
+Precautions: Take with food for better absorption. Avoid taking with iron supplements simultaneously.
+
+---
+
+## About Jan Aushadhi Kendras
+Jan Aushadhi Kendras are stores established under the Pradhan Mantri Bhartiya Jan Aushadhi Pariyojana (PMBJP).
+They sell quality generic medicines at affordable prices, often 50-90% cheaper than branded equivalents.
+Over 10,000 Jan Aushadhi Kendras are operational across India.
+Product range: 1800+ medicines and 300+ surgical/medical devices.
+All medicines are tested for quality by NABL-accredited laboratories.
+To find the nearest Jan Aushadhi Kendra, visit: http://janaushadhi.gov.in or call 1800-180-8080 (toll-free).

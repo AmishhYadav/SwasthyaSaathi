@@ -1,0 +1,380 @@
+# Tuberculosis (TB)
+
+Introduction
+Tuberculosis (TB) is a bacterial infection caused by Mycobacterium tuberculosis.
+It primarily affects the lungs (pulmonary TB) but can affect other organs.
+India accounts for about 27% of global TB cases, making it the highest burden country.
+
+Symptoms
+Persistent cough lasting more than 2 weeks
+Coughing up blood or sputum
+Chest pain
+Fever, especially in the evening
+Night sweats
+Unexplained weight loss
+Loss of appetite and fatigue
+
+Causes
+Bacteria: Mycobacterium tuberculosis
+Transmission: Airborne droplets when an infected person coughs, sneezes, or speaks.
+Risk factors: Crowded living, malnutrition, HIV co-infection, diabetes.
+
+Diagnosis
+Sputum smear microscopy (AFB staining)
+Chest X-ray
+GeneXpert / CBNAAT test (rapid molecular diagnosis)
+Mantoux tuberculin skin test
+
+Treatment
+DOTS (Directly Observed Treatment, Short-course) under RNTCP/NTEP.
+First-line drugs: Isoniazid, Rifampin, Pyrazinamide, Ethambutol (6-9 months course).
+Drug-resistant TB: MDR-TB requires second-line drugs for 18-24 months.
+Free treatment available at government hospitals under NTEP.
+
+Prevention
+BCG vaccination at birth.
+Good ventilation, cough hygiene.
+Early diagnosis and complete treatment of active cases.
+Contact screening of household members.
+
+Myths vs Facts
+❌ "TB is hereditary" → False, it is an infectious disease.
+❌ "TB only affects poor people" → False, anyone can get TB.
+✅ "TB is curable with complete treatment" → True.
+
+Public Health Context (India)
+Part of National TB Elimination Programme (NTEP).
+Goal: TB-free India by 2025 (Nikshay Poshan Yojana provides nutrition support).
+
+---
+
+# Typhoid
+
+Introduction
+Typhoid fever is a bacterial infection caused by Salmonella typhi.
+Spread through contaminated food and water.
+Common in areas with poor sanitation, especially during monsoon season in India.
+
+Symptoms
+Sustained high fever (stepladder pattern, rising daily)
+Headache
+Abdominal pain and discomfort
+Constipation or diarrhea
+Loss of appetite
+Weakness and body aches
+Rose spots on the chest (in some cases)
+
+Causes
+Bacteria: Salmonella enterica serotype Typhi
+Transmission: Fecal-oral route — contaminated food, water, or contact with an infected person.
+
+Diagnosis
+Widal test (antibody-based, less accurate)
+Blood culture (gold standard)
+Typhidot test (rapid)
+
+Treatment
+Antibiotics: Azithromycin, Ceftriaxone, or Ciprofloxacin (based on sensitivity).
+Supportive care: fluids, rest, soft diet.
+Hospitalization for severe cases.
+
+Prevention
+Drink boiled or purified water.
+Eat freshly cooked food, avoid street food during outbreaks.
+Typhoid vaccine (injectable or oral) recommended for high-risk areas.
+Handwashing with soap before eating and after using the toilet.
+
+Myths vs Facts
+❌ "Typhoid spreads through air" → False, it is waterborne/foodborne.
+✅ "Boiling water kills typhoid bacteria" → True.
+
+Public Health Context (India)
+Typhoid is endemic in India, particularly in urban slums and rural areas.
+Improvement in water supply and sanitation is key to prevention.
+
+---
+
+# Cholera
+
+Introduction
+Cholera is an acute diarrheal disease caused by Vibrio cholerae bacteria.
+Spreads through contaminated water and food.
+Can cause severe dehydration and death within hours if untreated.
+
+Symptoms
+Profuse watery diarrhea (rice-water stools)
+Severe dehydration
+Vomiting
+Leg cramps
+Rapid heart rate
+Low blood pressure
+Sunken eyes, dry mouth
+
+Causes
+Bacteria: Vibrio cholerae (O1 and O139 serogroups)
+Transmission: Contaminated water, raw/undercooked seafood, poor sanitation.
+
+Diagnosis
+Stool culture
+Rapid diagnostic dipstick tests
+
+Treatment
+Oral Rehydration Solution (ORS) — the cornerstone of treatment.
+IV fluids for severe dehydration.
+Antibiotics: Doxycycline, Azithromycin (shorten duration).
+Zinc supplements for children.
+
+Prevention
+Safe drinking water (boiling, chlorination, filtration).
+Proper sanitation and handwashing.
+Oral cholera vaccine (OCV) in endemic/outbreak areas.
+Avoid raw food in outbreak zones.
+
+Myths vs Facts
+❌ "Cholera is caused by bad air" → False, it is waterborne.
+✅ "ORS saves lives in cholera" → True, it is the most important treatment.
+
+Public Health Context (India)
+Outbreaks occur during floods and after natural disasters.
+WASH (Water, Sanitation, Hygiene) programs are critical for prevention.
+
+---
+
+# Diabetes (Type 2)
+
+Introduction
+Type 2 Diabetes Mellitus is a chronic metabolic disorder where the body becomes resistant to insulin or does not produce enough insulin.
+India is known as the "Diabetes Capital of the World" with over 100 million diabetics.
+
+Symptoms
+Increased thirst (polydipsia)
+Frequent urination (polyuria)
+Unexplained weight loss
+Fatigue and weakness
+Blurred vision
+Slow wound healing
+Tingling or numbness in hands/feet
+Frequent infections (skin, urinary)
+
+Causes
+Risk factors: Obesity, sedentary lifestyle, family history, unhealthy diet.
+Insulin resistance leading to high blood glucose levels.
+
+Diagnosis
+Fasting Blood Glucose (FBG) ≥ 126 mg/dL
+HbA1c ≥ 6.5%
+Oral Glucose Tolerance Test (OGTT) ≥ 200 mg/dL at 2 hours
+Random Blood Glucose ≥ 200 mg/dL with symptoms
+
+Treatment
+Lifestyle changes: Regular exercise (150 min/week), healthy diet, weight management.
+Medications: Metformin (first-line), Sulfonylureas, DPP-4 inhibitors, SGLT2 inhibitors.
+Insulin therapy for advanced cases.
+Regular monitoring of blood glucose, HbA1c, kidney function, eye exams.
+
+Prevention
+Maintain a healthy weight.
+Regular physical activity.
+Balanced diet rich in fiber, low in refined sugar and processed foods.
+Regular health check-ups after age 30.
+
+Myths vs Facts
+❌ "Diabetes is caused by eating too much sugar" → Partially true, but obesity and genetics are major factors.
+❌ "Only old people get diabetes" → False, Type 2 is now common in young adults and children.
+✅ "Regular exercise helps control blood sugar" → True.
+
+Public Health Context (India)
+Part of National Programme for Prevention and Control of Cancer, Diabetes, CVD and Stroke (NPCDCS).
+India has a high prevalence of diabetes, especially in urban areas.
+
+---
+
+# Hypertension (High Blood Pressure)
+
+Introduction
+Hypertension is a chronic condition where blood pressure in the arteries is persistently elevated.
+Known as the "silent killer" because it often has no symptoms until complications develop.
+
+Symptoms
+Most people have no symptoms (silent condition).
+Severe cases: Headache, dizziness, blurred vision, chest pain, shortness of breath.
+Nosebleeds (in rare, severe cases).
+
+Causes
+Primary (Essential): No identifiable cause; related to genetics, age, lifestyle.
+Secondary: Kidney disease, hormonal disorders, medications.
+Risk factors: High salt diet, obesity, stress, alcohol, smoking, sedentary lifestyle.
+
+Diagnosis
+Blood pressure measurement ≥ 140/90 mmHg on two separate occasions.
+Normal: < 120/80 mmHg
+Elevated: 120-129 / < 80 mmHg
+Stage 1: 130-139 / 80-89 mmHg
+Stage 2: ≥ 140/≥ 90 mmHg
+
+Treatment
+Lifestyle: Reduce salt (< 5 g/day), regular exercise, weight loss, stop smoking.
+Medications: ACE inhibitors, ARBs, Calcium channel blockers, Diuretics, Beta-blockers.
+Regular monitoring and medication compliance.
+
+Prevention
+Low-salt diet (DASH diet recommended).
+Regular physical activity (30 min/day).
+Limit alcohol, quit smoking.
+Stress management (yoga, meditation).
+Regular blood pressure checks.
+
+Myths vs Facts
+❌ "Only stressed people get hypertension" → False, many causes exist.
+❌ "If I feel fine, my BP must be normal" → False, hypertension is often asymptomatic.
+✅ "Reducing salt intake helps lower blood pressure" → True.
+
+Public Health Context (India)
+Hypertension affects 1 in 4 adults in India.
+Major contributor to heart attacks, strokes, and kidney disease.
+NPCDCS programme covers screening and management.
+
+---
+
+# COVID-19
+
+Introduction
+COVID-19 is a respiratory illness caused by the SARS-CoV-2 virus.
+First identified in Wuhan, China, in December 2019.
+Declared a global pandemic by WHO in March 2020.
+
+Symptoms
+Fever, cough, sore throat
+Shortness of breath
+Fatigue, body aches
+Loss of taste or smell (anosmia)
+Headache, diarrhea (in some cases)
+Severe cases: Pneumonia, ARDS, organ failure
+
+Causes
+Virus: SARS-CoV-2 (Severe Acute Respiratory Syndrome Coronavirus 2)
+Transmission: Respiratory droplets, aerosols, contact with contaminated surfaces.
+
+Diagnosis
+RT-PCR test (gold standard)
+Rapid Antigen Test (RAT)
+CT scan for lung involvement
+
+Treatment
+Mild cases: Home isolation, rest, paracetamol, hydration.
+Moderate: Oxygen therapy, steroids (Dexamethasone), anticoagulants.
+Severe: ICU admission, mechanical ventilation, Remdesivir, Tocilizumab.
+Vaccination is the most effective preventive measure.
+
+Prevention
+Vaccination (Covishield, Covaxin, and others).
+Wear masks in crowded places.
+Hand hygiene and social distancing.
+Good ventilation in indoor spaces.
+
+Myths vs Facts
+❌ "COVID-19 is just like the flu" → False, it can be much more severe.
+❌ "5G causes COVID-19" → Completely false.
+✅ "Vaccines significantly reduce severe disease and death" → True.
+
+Public Health Context (India)
+India conducted one of the world's largest vaccination drives.
+CoWIN platform used for registration and tracking.
+
+---
+
+# Diarrheal Disease
+
+Introduction
+Diarrheal disease is characterized by the passage of three or more loose or liquid stools per day.
+A leading cause of death in children under 5, especially in developing countries.
+Caused by a variety of bacteria, viruses, and parasites.
+
+Symptoms
+Frequent loose or watery stools
+Abdominal cramps or pain
+Nausea and vomiting
+Fever (in some cases)
+Signs of dehydration: dry mouth, reduced urination, sunken eyes, lethargy
+
+Causes
+Bacterial: E. coli, Salmonella, Shigella, Vibrio cholerae
+Viral: Rotavirus, Norovirus
+Parasitic: Giardia, Entamoeba histolytica
+Transmission: Contaminated water and food, poor hygiene.
+
+Diagnosis
+Clinical assessment of dehydration
+Stool examination (routine and culture)
+Electrolyte panel if severe
+
+Treatment
+ORS (Oral Rehydration Solution) — most critical treatment.
+Zinc supplementation for children (10-20 mg/day for 10-14 days).
+Continue feeding/breastfeeding.
+Antibiotics only if specific bacterial cause identified.
+IV fluids for severe dehydration.
+
+Prevention
+Safe drinking water.
+Handwashing with soap (especially before eating, after toilet).
+Rotavirus vaccination for infants.
+Proper food hygiene and storage.
+
+Myths vs Facts
+❌ "Stop eating and drinking during diarrhea" → False, fluids and food are essential.
+❌ "All diarrhea needs antibiotics" → False, most cases are viral and self-limiting.
+✅ "ORS + Zinc is the best treatment for childhood diarrhea" → True.
+
+Public Health Context (India)
+Part of Integrated Disease Surveillance Programme (IDSP).
+ORS and Zinc are available free at all government health facilities.
+
+---
+
+# Pneumonia
+
+Introduction
+Pneumonia is an infection of the lungs that causes inflammation and fluid buildup in the air sacs.
+A major cause of death in children under 5 and elderly adults.
+
+Symptoms
+Cough with phlegm (yellow, green, or bloody)
+High fever with chills
+Shortness of breath
+Chest pain (worse with breathing or coughing)
+Fatigue and weakness
+Rapid breathing in children
+
+Causes
+Bacterial: Streptococcus pneumoniae (most common), Haemophilus influenzae
+Viral: Influenza, RSV, SARS-CoV-2
+Fungal: Rare, seen in immunocompromised patients
+Risk factors: Age (very young or elderly), smoking, chronic lung disease, weakened immunity.
+
+Diagnosis
+Chest X-ray
+Sputum culture
+Blood tests (CBC, CRP)
+Pulse oximetry (oxygen saturation)
+
+Treatment
+Bacterial: Antibiotics (Amoxicillin, Azithromycin, or Ceftriaxone).
+Viral: Supportive care, antiviral drugs if specific virus identified.
+Supportive: Oxygen therapy, fluids, rest.
+Severe cases: Hospitalization, IV antibiotics, mechanical ventilation.
+
+Prevention
+Pneumococcal vaccine (PCV13 for children, PPSV23 for adults).
+Influenza vaccination annually.
+Good hygiene, handwashing.
+Avoid smoking.
+Breastfeeding protects infants.
+
+Myths vs Facts
+❌ "Pneumonia is just a bad cold" → False, it can be life-threatening.
+✅ "Vaccination can prevent many types of pneumonia" → True.
+
+Public Health Context (India)
+Pneumonia is the leading infectious cause of death in children under 5 in India.
+PCV is part of the Universal Immunization Programme (UIP).

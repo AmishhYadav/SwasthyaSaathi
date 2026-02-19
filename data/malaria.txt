@@ -1,0 +1,34 @@
+Introduction
+Malaria is a life-threatening disease caused by Plasmodium parasites.
+It spreads through the bite of infected female Anopheles mosquitoes.
+Common in tropical and subtropical regions, including parts of India.
+Symptoms
+High fever (often recurring)
+Chills and sweating
+Headache
+Nausea and vomiting
+Muscle pain and fatigue
+In severe cases: anemia, breathing difficulty, organ failure
+Causes
+Parasite: Plasmodium falciparum, P. vivax, P. malariae, P. ovale, P. knowlesi
+Transmission: bites from infected mosquitoes
+Diagnosis
+Blood smear microscopy (gold standard)
+Rapid diagnostic tests (RDTs) for parasite antigens
+Treatment
+Depends on parasite species and severity.
+First-line drugs: Artemisinin-based combination therapy (ACT).
+Severe malaria: IV artesunate or quinine.
+Supportive care: fluids, blood transfusion if needed.
+Prevention
+Use of insecticide-treated bed nets (ITNs)
+Indoor residual spraying (IRS)
+Preventive medications for travelers
+Elimination of stagnant water sources
+Myths vs Facts
+❌ “Garlic cures malaria” → No scientific proof.
+❌ “Malaria spreads from person to person directly” → False, only via mosquito bites.
+✅ “Sleeping under mosquito nets prevents malaria” → True.
+Public Health Context (India)
+Part of National Vector Borne Disease Control Programme (NVBDCP).
+Goal: malaria elimination by 2030 in India.
