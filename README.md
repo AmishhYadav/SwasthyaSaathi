@@ -7,7 +7,7 @@ SwasthyaSathi is a multi-agent AI chatbot designed to provide accessible, accura
 
 ## 🚀 Key Features
 
-- **🧠 Intelligent Routing**: Automatically directs queries to specialized AI agents (Symptoms, Myths, Referrals, etc.).
+- **🧠 Intelligent Routing**: Automatically directs queries to specialized Artificial Intelligence agents (Symptoms, Myths, Referrals, etc.).
 - **📚 Local Knowledge (RAG)**: Uses FAISS to index local medical data, including Jan Aushadhi medicine prices and Indian health guidelines.
 - **⚕️ Symptom Checker**: Preliminary guidance on symptoms with a strong emphasis on professional medical consultation.
 - **🛡️ Myth Buster**: Counters common medical misinformation and folk remedies.
